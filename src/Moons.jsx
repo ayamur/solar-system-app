@@ -1,9 +1,9 @@
 const Moons = (props) => {
-  return ( 
+  return (
     <div>
       {props.name}
     </div>
-   );
+  );
 }
- 
+
 export default Moons;
