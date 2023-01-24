@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+Body {
+  background-color: #282c34
+}
+
+div {
+  color: white;
+  border: 3px dotted darkgoldenrod;
+  margin: 5px;
+  padding: 5px;
+}
